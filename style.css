@@ -1,0 +1,46 @@
+#quote-icon{
+    width: 14px;
+}
+#quote {
+    font-size: 10px;
+}
+#avatar {
+    width: 24px; 
+    height: 24px;
+}
+#name {
+    font-size: 9px;
+    font-weight: 700;
+}
+#position {
+    font-size: 6px;
+    font-weight: 400;
+    position: relative;
+    top: -15px;
+}
+#productive {
+    background-color: #F8F8FE;
+}
+#fylo-link {
+    color: #3DA08F;
+    font-size: 12px;
+}
+#blue-section {
+    background-color: #575988;
+}
+#dark-blue-section {
+    background: #07043B;
+}
+#white-logo {
+    color: #FFFFFF;
+}
+.footer-links {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+/* #image {
+    width: 50%;
+    height:fit-content;
+    display: flex;
+    justify-content: center;
+} */
