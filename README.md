@@ -21,10 +21,10 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
+### Screenshots
 
-![](./images/screenshot1.png)
-![](./images/screenshot2.png)
+![Desktop screenshot](./images/screenshot1.png)
+![Mobile screenshot](./images/screenshot2.png)
 
 ## My process
 
